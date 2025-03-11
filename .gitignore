@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# POBLACION_NSC.xlsx file
+app/data/POBLACION_NSC.xlsx
+# Ignorar archivos temporales de Excel
+~$*.xlsx
